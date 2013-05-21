@@ -44,7 +44,7 @@ SEE ALSO
     *   Minting Profiles Tutorial
         <http://dzil.org/tutorial/minting-profile.html>
 
-    *   Dist::Zilla::Plugin::Git::Init>
+    *   Dist::Zilla::Plugin::Git::Init
 
     *   Dist::Zilla::Plugin::GitHub::Create
 

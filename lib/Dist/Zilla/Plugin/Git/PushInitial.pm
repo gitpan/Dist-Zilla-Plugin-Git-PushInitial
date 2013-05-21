@@ -4,7 +4,7 @@ BEGIN {
   $Dist::Zilla::Plugin::Git::PushInitial::AUTHORITY = 'cpan:RKITOVER';
 }
 {
-  $Dist::Zilla::Plugin::Git::PushInitial::VERSION = '0.01';
+  $Dist::Zilla::Plugin::Git::PushInitial::VERSION = '0.02';
 }
 
 use 5.008001;
@@ -119,7 +119,7 @@ sub after_mint {
 
 =item * L<Minting Profiles Tutorial|http://dzil.org/tutorial/minting-profile.html>
 
-=item * L<Dist::Zilla::Plugin::Git::Init>>
+=item * L<Dist::Zilla::Plugin::Git::Init>
 
 =item * L<Dist::Zilla::Plugin::GitHub::Create>
 
